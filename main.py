@@ -8,9 +8,11 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 password = "PASSWORD"
 username = "USERNAME"
-chrome_driver_path = "C:\software\chromdriver\chromedriver.exe"
-chrome_user_path = "user-data-dir=C:\\Users\\HP EliteDesk\\AppData\\Local\\Google\\Chrome\\User Data"
-chrome_user_profile = "profile-directory=Profile 1"
+
+#watch a tutorial or read something to do this
+chrome_driver_path = "Youre driver path"
+chrome_user_path = "your user chrome path"
+chrome_user_profile = "profile-directory=Profile 1" #user profile you want to use
 
 
 # Some options
